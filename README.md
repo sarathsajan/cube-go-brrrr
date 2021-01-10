@@ -1,6 +1,7 @@
 # Cube Go Brrrr.....
 
-A small game made in Unity3D game engine based on Brackey's game development tutorial
+A small game made in Unity3D game engine based on Brackey's game development tutorial.
+
 Game is pretty much self-explanatory. Make it to the end without hitting the obstacles.
 
 *Brackey's Youtube Playlist : https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL*
