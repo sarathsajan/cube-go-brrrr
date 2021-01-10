@@ -1,8 +1,10 @@
 # Cube Go Brrrr.....
 
-#### To play just download the "CubeGoBrrrr......exe" file and enjoy!!!
+A small game made in Unity3D game engine based on Brackey's game development tutorial
+Game is pretty much self-explanatory. Make it to the end without hitting the obstacles.
 
-#### Game is pretty much self-explanatory I guess
+*Brackey's Youtube Playlist : https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL*
+___
 
 #### Menu [SCREENSHOT]
 <img src="https://github.com/sarathsajan/cube-go-brrrr/blob/main/menu-screenshot.png" width=auto>
