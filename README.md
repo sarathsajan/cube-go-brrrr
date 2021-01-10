@@ -14,6 +14,3 @@ ___
 
 #### Demo [GIF]
 <img src="https://raw.githubusercontent.com/sarathsajan/cube-go-brrrr/main/intro_gif.gif" width=auto>
-
-#### Demo [WebP]
-<img src="https://raw.githubusercontent.com/sarathsajan/cube-go-brrrr/main/intro_webp.webp" width=auto>
